@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About App
+Simple React App that displays the names of Pokemons. This App utilizes Hooks and Pagination. This App was geared to practice fetching urls with axios and to practice building applications using React. 
+
 ## Available Scripts
 
 In the project directory, you can run:
